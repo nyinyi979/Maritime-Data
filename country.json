@@ -252,7 +252,13 @@
     "FlagURL": "https://flagsapi.com/IT/flat/64.png"
   },
   {
-    "ITU_Codes": "248-249",
+    "ITU_Codes": "248",
+    "Country": "Malta",
+    "ISO2": "MT",
+    "FlagURL": "https://flagsapi.com/MT/flat/64.png"
+  },
+  {
+    "ITU_Codes": "249",
     "Country": "Malta",
     "ISO2": "MT",
     "FlagURL": "https://flagsapi.com/MT/flat/64.png"
