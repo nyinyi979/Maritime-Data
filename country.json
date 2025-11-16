@@ -1,0 +1,1670 @@
+[
+  {
+    "ITU_Codes": "201",
+    "Country": "Albania",
+    "ISO2": "AL",
+    "FlagURL": "https://flagsapi.com/AL/flat/64.png"
+  },
+  {
+    "ITU_Codes": "202",
+    "Country": "Andorra",
+    "ISO2": "AD",
+    "FlagURL": "https://flagsapi.com/AD/flat/64.png"
+  },
+  {
+    "ITU_Codes": "203",
+    "Country": "Austria",
+    "ISO2": "AT",
+    "FlagURL": "https://flagsapi.com/AT/flat/64.png"
+  },
+  {
+    "ITU_Codes": "204",
+    "Country": "Azores (Portugal)",
+    "ISO2": "PT",
+    "FlagURL": "https://flagsapi.com/PT/flat/64.png"
+  },
+  {
+    "ITU_Codes": "205",
+    "Country": "Belgium",
+    "ISO2": "BE",
+    "FlagURL": "https://flagsapi.com/BE/flat/64.png"
+  },
+  {
+    "ITU_Codes": "206",
+    "Country": "Belarus",
+    "ISO2": "BY",
+    "FlagURL": "https://flagsapi.com/BY/flat/64.png"
+  },
+  {
+    "ITU_Codes": "207",
+    "Country": "Bulgaria",
+    "ISO2": "BG",
+    "FlagURL": "https://flagsapi.com/BG/flat/64.png"
+  },
+  {
+    "ITU_Codes": "208",
+    "Country": "Vatican City",
+    "ISO2": "VA",
+    "FlagURL": "https://flagsapi.com/VA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "209",
+    "Country": "Cyprus",
+    "ISO2": "CY",
+    "FlagURL": "https://flagsapi.com/CY/flat/64.png"
+  },
+  {
+    "ITU_Codes": "210",
+    "Country": "Cyprus",
+    "ISO2": "CY",
+    "FlagURL": "https://flagsapi.com/CY/flat/64.png"
+  },
+  {
+    "ITU_Codes": "211",
+    "Country": "Germany",
+    "ISO2": "DE",
+    "FlagURL": "https://flagsapi.com/DE/flat/64.png"
+  },
+  {
+    "ITU_Codes": "212",
+    "Country": "Cyprus",
+    "ISO2": "CY",
+    "FlagURL": "https://flagsapi.com/CY/flat/64.png"
+  },
+  {
+    "ITU_Codes": "213",
+    "Country": "Georgia",
+    "ISO2": "GE",
+    "FlagURL": "https://flagsapi.com/GE/flat/64.png"
+  },
+  {
+    "ITU_Codes": "214",
+    "Country": "Moldova",
+    "ISO2": "MD",
+    "FlagURL": "https://flagsapi.com/MD/flat/64.png"
+  },
+  {
+    "ITU_Codes": "215",
+    "Country": "Malta",
+    "ISO2": "MT",
+    "FlagURL": "https://flagsapi.com/MT/flat/64.png"
+  },
+  {
+    "ITU_Codes": "216",
+    "Country": "Armenia",
+    "ISO2": "AM",
+    "FlagURL": "https://flagsapi.com/AM/flat/64.png"
+  },
+  {
+    "ITU_Codes": "218",
+    "Country": "Germany",
+    "ISO2": "DE",
+    "FlagURL": "https://flagsapi.com/DE/flat/64.png"
+  },
+  {
+    "ITU_Codes": "219",
+    "Country": "Denmark",
+    "ISO2": "DK",
+    "FlagURL": "https://flagsapi.com/DK/flat/64.png"
+  },
+  {
+    "ITU_Codes": "220",
+    "Country": "Denmark",
+    "ISO2": "DK",
+    "FlagURL": "https://flagsapi.com/DK/flat/64.png"
+  },
+  {
+    "ITU_Codes": "224",
+    "Country": "Spain",
+    "ISO2": "ES",
+    "FlagURL": "https://flagsapi.com/ES/flat/64.png"
+  },
+  {
+    "ITU_Codes": "225",
+    "Country": "Spain",
+    "ISO2": "ES",
+    "FlagURL": "https://flagsapi.com/ES/flat/64.png"
+  },
+  {
+    "ITU_Codes": "226",
+    "Country": "France",
+    "ISO2": "FR",
+    "FlagURL": "https://flagsapi.com/FR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "227",
+    "Country": "France",
+    "ISO2": "FR",
+    "FlagURL": "https://flagsapi.com/FR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "228",
+    "Country": "France",
+    "ISO2": "FR",
+    "FlagURL": "https://flagsapi.com/FR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "230",
+    "Country": "Finland",
+    "ISO2": "FI",
+    "FlagURL": "https://flagsapi.com/FI/flat/64.png"
+  },
+  {
+    "ITU_Codes": "231",
+    "Country": "Faroe Islands",
+    "ISO2": "FO",
+    "FlagURL": "https://flagsapi.com/FO/flat/64.png"
+  },
+  {
+    "ITU_Codes": "232",
+    "Country": "United Kingdom",
+    "ISO2": "GB",
+    "FlagURL": "https://flagsapi.com/GB/flat/64.png"
+  },
+  {
+    "ITU_Codes": "233",
+    "Country": "United Kingdom",
+    "ISO2": "GB",
+    "FlagURL": "https://flagsapi.com/GB/flat/64.png"
+  },
+  {
+    "ITU_Codes": "234",
+    "Country": "United Kingdom",
+    "ISO2": "GB",
+    "FlagURL": "https://flagsapi.com/GB/flat/64.png"
+  },
+  {
+    "ITU_Codes": "235",
+    "Country": "United Kingdom",
+    "ISO2": "GB",
+    "FlagURL": "https://flagsapi.com/GB/flat/64.png"
+  },
+  {
+    "ITU_Codes": "236",
+    "Country": "Gibraltar",
+    "ISO2": "GI",
+    "FlagURL": "https://flagsapi.com/GI/flat/64.png"
+  },
+  {
+    "ITU_Codes": "237",
+    "Country": "Greece",
+    "ISO2": "GR",
+    "FlagURL": "https://flagsapi.com/GR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "238",
+    "Country": "Croatia",
+    "ISO2": "HR",
+    "FlagURL": "https://flagsapi.com/HR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "239",
+    "Country": "Greece",
+    "ISO2": "GR",
+    "FlagURL": "https://flagsapi.com/GR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "240",
+    "Country": "Greece",
+    "ISO2": "GR",
+    "FlagURL": "https://flagsapi.com/GR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "241",
+    "Country": "Greece",
+    "ISO2": "GR",
+    "FlagURL": "https://flagsapi.com/GR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "242",
+    "Country": "Morocco",
+    "ISO2": "MA",
+    "FlagURL": "https://flagsapi.com/MA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "243",
+    "Country": "Hungary",
+    "ISO2": "HU",
+    "FlagURL": "https://flagsapi.com/HU/flat/64.png"
+  },
+  {
+    "ITU_Codes": "244",
+    "Country": "Netherlands",
+    "ISO2": "NL",
+    "FlagURL": "https://flagsapi.com/NL/flat/64.png"
+  },
+  {
+    "ITU_Codes": "245",
+    "Country": "Netherlands",
+    "ISO2": "NL",
+    "FlagURL": "https://flagsapi.com/NL/flat/64.png"
+  },
+  {
+    "ITU_Codes": "246",
+    "Country": "Netherlands",
+    "ISO2": "NL",
+    "FlagURL": "https://flagsapi.com/NL/flat/64.png"
+  },
+  {
+    "ITU_Codes": "247",
+    "Country": "Italy",
+    "ISO2": "IT",
+    "FlagURL": "https://flagsapi.com/IT/flat/64.png"
+  },
+  {
+    "ITU_Codes": "248-249",
+    "Country": "Malta",
+    "ISO2": "MT",
+    "FlagURL": "https://flagsapi.com/MT/flat/64.png"
+  },
+  {
+    "ITU_Codes": "250",
+    "Country": "Ireland",
+    "ISO2": "IE",
+    "FlagURL": "https://flagsapi.com/IE/flat/64.png"
+  },
+  {
+    "ITU_Codes": "251",
+    "Country": "Iceland",
+    "ISO2": "IS",
+    "FlagURL": "https://flagsapi.com/IS/flat/64.png"
+  },
+  {
+    "ITU_Codes": "252",
+    "Country": "Liechtenstein",
+    "ISO2": "LI",
+    "FlagURL": "https://flagsapi.com/LI/flat/64.png"
+  },
+  {
+    "ITU_Codes": "253",
+    "Country": "Luxembourg",
+    "ISO2": "LU",
+    "FlagURL": "https://flagsapi.com/LU/flat/64.png"
+  },
+  {
+    "ITU_Codes": "254",
+    "Country": "Monaco",
+    "ISO2": "MC",
+    "FlagURL": "https://flagsapi.com/MC/flat/64.png"
+  },
+  {
+    "ITU_Codes": "255",
+    "Country": "Madeira (Portugal)",
+    "ISO2": "PT",
+    "FlagURL": "https://flagsapi.com/PT/flat/64.png"
+  },
+  {
+    "ITU_Codes": "256",
+    "Country": "Malta",
+    "ISO2": "MT",
+    "FlagURL": "https://flagsapi.com/MT/flat/64.png"
+  },
+  {
+    "ITU_Codes": "257",
+    "Country": "Norway",
+    "ISO2": "NO",
+    "FlagURL": "https://flagsapi.com/NO/flat/64.png"
+  },
+  {
+    "ITU_Codes": "259",
+    "Country": "Norway",
+    "ISO2": "NO",
+    "FlagURL": "https://flagsapi.com/NO/flat/64.png"
+  },
+  {
+    "ITU_Codes": "261",
+    "Country": "Poland",
+    "ISO2": "PL",
+    "FlagURL": "https://flagsapi.com/PL/flat/64.png"
+  },
+  {
+    "ITU_Codes": "262",
+    "Country": "Montenegro",
+    "ISO2": "ME",
+    "FlagURL": "https://flagsapi.com/ME/flat/64.png"
+  },
+  {
+    "ITU_Codes": "263",
+    "Country": "Portugal",
+    "ISO2": "PT",
+    "FlagURL": "https://flagsapi.com/PT/flat/64.png"
+  },
+  {
+    "ITU_Codes": "264",
+    "Country": "Romania",
+    "ISO2": "RO",
+    "FlagURL": "https://flagsapi.com/RO/flat/64.png"
+  },
+  {
+    "ITU_Codes": "265",
+    "Country": "Sweden",
+    "ISO2": "SE",
+    "FlagURL": "https://flagsapi.com/SE/flat/64.png"
+  },
+  {
+    "ITU_Codes": "266",
+    "Country": "Sweden",
+    "ISO2": "SE",
+    "FlagURL": "https://flagsapi.com/SE/flat/64.png"
+  },
+  {
+    "ITU_Codes": "267",
+    "Country": "Slovakia",
+    "ISO2": "SK",
+    "FlagURL": "https://flagsapi.com/SK/flat/64.png"
+  },
+  {
+    "ITU_Codes": "268",
+    "Country": "San Marino",
+    "ISO2": "SM",
+    "FlagURL": "https://flagsapi.com/SM/flat/64.png"
+  },
+  {
+    "ITU_Codes": "269",
+    "Country": "Switzerland",
+    "ISO2": "CH",
+    "FlagURL": "https://flagsapi.com/CH/flat/64.png"
+  },
+  {
+    "ITU_Codes": "270",
+    "Country": "Czech Republic",
+    "ISO2": "CZ",
+    "FlagURL": "https://flagsapi.com/CZ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "271",
+    "Country": "Turkey",
+    "ISO2": "TR",
+    "FlagURL": "https://flagsapi.com/TR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "272",
+    "Country": "Ukraine",
+    "ISO2": "UA",
+    "FlagURL": "https://flagsapi.com/UA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "273",
+    "Country": "Russia",
+    "ISO2": "RU",
+    "FlagURL": "https://flagsapi.com/RU/flat/64.png"
+  },
+  {
+    "ITU_Codes": "274",
+    "Country": "North Macedonia",
+    "ISO2": "MK",
+    "FlagURL": "https://flagsapi.com/MK/flat/64.png"
+  },
+  {
+    "ITU_Codes": "275",
+    "Country": "Latvia",
+    "ISO2": "LV",
+    "FlagURL": "https://flagsapi.com/LV/flat/64.png"
+  },
+  {
+    "ITU_Codes": "276",
+    "Country": "Estonia",
+    "ISO2": "EE",
+    "FlagURL": "https://flagsapi.com/EE/flat/64.png"
+  },
+  {
+    "ITU_Codes": "277",
+    "Country": "Lithuania",
+    "ISO2": "LT",
+    "FlagURL": "https://flagsapi.com/LT/flat/64.png"
+  },
+  {
+    "ITU_Codes": "278",
+    "Country": "Slovenia",
+    "ISO2": "SI",
+    "FlagURL": "https://flagsapi.com/SI/flat/64.png"
+  },
+  {
+    "ITU_Codes": "279",
+    "Country": "Serbia",
+    "ISO2": "RS",
+    "FlagURL": "https://flagsapi.com/RS/flat/64.png"
+  },
+  {
+    "ITU_Codes": "301",
+    "Country": "Anguilla",
+    "ISO2": "AI",
+    "FlagURL": "https://flagsapi.com/AI/flat/64.png"
+  },
+  {
+    "ITU_Codes": "303",
+    "Country": "Alaska (USA)",
+    "ISO2": "US",
+    "FlagURL": "https://flagsapi.com/US/flat/64.png"
+  },
+  {
+    "ITU_Codes": "304",
+    "Country": "Antigua and Barbuda",
+    "ISO2": "AG",
+    "FlagURL": "https://flagsapi.com/AG/flat/64.png"
+  },
+  {
+    "ITU_Codes": "305",
+    "Country": "Antigua and Barbuda",
+    "ISO2": "AG",
+    "FlagURL": "https://flagsapi.com/AG/flat/64.png"
+  },
+  {
+    "ITU_Codes": "306",
+    "Country": "Netherlands Antilles (former)",
+    "ISO2": "CW",
+    "FlagURL": "https://flagsapi.com/CW/flat/64.png"
+  },
+  {
+    "ITU_Codes": "307",
+    "Country": "Aruba",
+    "ISO2": "AW",
+    "FlagURL": "https://flagsapi.com/AW/flat/64.png"
+  },
+  {
+    "ITU_Codes": "308",
+    "Country": "Bahamas",
+    "ISO2": "BS",
+    "FlagURL": "https://flagsapi.com/BS/flat/64.png"
+  },
+  {
+    "ITU_Codes": "309",
+    "Country": "Bahamas",
+    "ISO2": "BS",
+    "FlagURL": "https://flagsapi.com/BS/flat/64.png"
+  },
+  {
+    "ITU_Codes": "310",
+    "Country": "Bermuda",
+    "ISO2": "BM",
+    "FlagURL": "https://flagsapi.com/BM/flat/64.png"
+  },
+  {
+    "ITU_Codes": "311",
+    "Country": "Bahamas",
+    "ISO2": "BS",
+    "FlagURL": "https://flagsapi.com/BS/flat/64.png"
+  },
+  {
+    "ITU_Codes": "312",
+    "Country": "Belize",
+    "ISO2": "BZ",
+    "FlagURL": "https://flagsapi.com/BZ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "314",
+    "Country": "Barbados",
+    "ISO2": "BB",
+    "FlagURL": "https://flagsapi.com/BB/flat/64.png"
+  },
+  {
+    "ITU_Codes": "316",
+    "Country": "Canada",
+    "ISO2": "CA",
+    "FlagURL": "https://flagsapi.com/CA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "319",
+    "Country": "Cayman Islands",
+    "ISO2": "KY",
+    "FlagURL": "https://flagsapi.com/KY/flat/64.png"
+  },
+  {
+    "ITU_Codes": "321",
+    "Country": "Costa Rica",
+    "ISO2": "CR",
+    "FlagURL": "https://flagsapi.com/CR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "323",
+    "Country": "Cuba",
+    "ISO2": "CU",
+    "FlagURL": "https://flagsapi.com/CU/flat/64.png"
+  },
+  {
+    "ITU_Codes": "325",
+    "Country": "Dominica",
+    "ISO2": "DM",
+    "FlagURL": "https://flagsapi.com/DM/flat/64.png"
+  },
+  {
+    "ITU_Codes": "327",
+    "Country": "Dominican Republic",
+    "ISO2": "DO",
+    "FlagURL": "https://flagsapi.com/DO/flat/64.png"
+  },
+  {
+    "ITU_Codes": "329",
+    "Country": "Guadeloupe",
+    "ISO2": "GP",
+    "FlagURL": "https://flagsapi.com/GP/flat/64.png"
+  },
+  {
+    "ITU_Codes": "330",
+    "Country": "Grenada",
+    "ISO2": "GD",
+    "FlagURL": "https://flagsapi.com/GD/flat/64.png"
+  },
+  {
+    "ITU_Codes": "331",
+    "Country": "Greenland",
+    "ISO2": "GL",
+    "FlagURL": "https://flagsapi.com/GL/flat/64.png"
+  },
+  {
+    "ITU_Codes": "332",
+    "Country": "Guatemala",
+    "ISO2": "GT",
+    "FlagURL": "https://flagsapi.com/GT/flat/64.png"
+  },
+  {
+    "ITU_Codes": "334",
+    "Country": "Honduras",
+    "ISO2": "HN",
+    "FlagURL": "https://flagsapi.com/HN/flat/64.png"
+  },
+  {
+    "ITU_Codes": "336",
+    "Country": "Haiti",
+    "ISO2": "HT",
+    "FlagURL": "https://flagsapi.com/HT/flat/64.png"
+  },
+  {
+    "ITU_Codes": "338",
+    "Country": "United States",
+    "ISO2": "US",
+    "FlagURL": "https://flagsapi.com/US/flat/64.png"
+  },
+  {
+    "ITU_Codes": "339",
+    "Country": "Jamaica",
+    "ISO2": "JM",
+    "FlagURL": "https://flagsapi.com/JM/flat/64.png"
+  },
+  {
+    "ITU_Codes": "341",
+    "Country": "Saint Kitts and Nevis",
+    "ISO2": "KN",
+    "FlagURL": "https://flagsapi.com/KN/flat/64.png"
+  },
+  {
+    "ITU_Codes": "343",
+    "Country": "Saint Lucia",
+    "ISO2": "LC",
+    "FlagURL": "https://flagsapi.com/LC/flat/64.png"
+  },
+  {
+    "ITU_Codes": "345",
+    "Country": "Mexico",
+    "ISO2": "MX",
+    "FlagURL": "https://flagsapi.com/MX/flat/64.png"
+  },
+  {
+    "ITU_Codes": "347",
+    "Country": "Martinique",
+    "ISO2": "MQ",
+    "FlagURL": "https://flagsapi.com/MQ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "348",
+    "Country": "Montserrat",
+    "ISO2": "MS",
+    "FlagURL": "https://flagsapi.com/MS/flat/64.png"
+  },
+  {
+    "ITU_Codes": "350",
+    "Country": "Nicaragua",
+    "ISO2": "NI",
+    "FlagURL": "https://flagsapi.com/NI/flat/64.png"
+  },
+  {
+    "ITU_Codes": "351",
+    "Country": "Panama",
+    "ISO2": "PA",
+    "FlagURL": "https://flagsapi.com/PA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "352",
+    "Country": "Panama",
+    "ISO2": "PA",
+    "FlagURL": "https://flagsapi.com/PA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "353",
+    "Country": "Panama",
+    "ISO2": "PA",
+    "FlagURL": "https://flagsapi.com/PA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "354",
+    "Country": "Panama",
+    "ISO2": "PA",
+    "FlagURL": "https://flagsapi.com/PA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "358",
+    "Country": "Puerto Rico",
+    "ISO2": "PR",
+    "FlagURL": "https://flagsapi.com/PR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "359",
+    "Country": "El Salvador",
+    "ISO2": "SV",
+    "FlagURL": "https://flagsapi.com/SV/flat/64.png"
+  },
+  {
+    "ITU_Codes": "361",
+    "Country": "Saint Pierre and Miquelon",
+    "ISO2": "PM",
+    "FlagURL": "https://flagsapi.com/PM/flat/64.png"
+  },
+  {
+    "ITU_Codes": "362",
+    "Country": "Trinidad and Tobago",
+    "ISO2": "TT",
+    "FlagURL": "https://flagsapi.com/TT/flat/64.png"
+  },
+  {
+    "ITU_Codes": "364",
+    "Country": "Turks and Caicos Islands",
+    "ISO2": "TC",
+    "FlagURL": "https://flagsapi.com/TC/flat/64.png"
+  },
+  {
+    "ITU_Codes": "366",
+    "Country": "United States",
+    "ISO2": "US",
+    "FlagURL": "https://flagsapi.com/US/flat/64.png"
+  },
+  {
+    "ITU_Codes": "367",
+    "Country": "United States",
+    "ISO2": "US",
+    "FlagURL": "https://flagsapi.com/US/flat/64.png"
+  },
+  {
+    "ITU_Codes": "368",
+    "Country": "United States",
+    "ISO2": "US",
+    "FlagURL": "https://flagsapi.com/US/flat/64.png"
+  },
+  {
+    "ITU_Codes": "369",
+    "Country": "United States",
+    "ISO2": "US",
+    "FlagURL": "https://flagsapi.com/US/flat/64.png"
+  },
+  {
+    "ITU_Codes": "370",
+    "Country": "Panama",
+    "ISO2": "PA",
+    "FlagURL": "https://flagsapi.com/PA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "371",
+    "Country": "Panama",
+    "ISO2": "PA",
+    "FlagURL": "https://flagsapi.com/PA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "372",
+    "Country": "Panama",
+    "ISO2": "PA",
+    "FlagURL": "https://flagsapi.com/PA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "375",
+    "Country": "Saint Vincent and the Grenadines",
+    "ISO2": "VC",
+    "FlagURL": "https://flagsapi.com/VC/flat/64.png"
+  },
+  {
+    "ITU_Codes": "376",
+    "Country": "Saint Vincent and the Grenadines",
+    "ISO2": "VC",
+    "FlagURL": "https://flagsapi.com/VC/flat/64.png"
+  },
+  {
+    "ITU_Codes": "377",
+    "Country": "Saint Vincent and the Grenadines",
+    "ISO2": "VC",
+    "FlagURL": "https://flagsapi.com/VC/flat/64.png"
+  },
+  {
+    "ITU_Codes": "378",
+    "Country": "British Virgin Islands",
+    "ISO2": "VG",
+    "FlagURL": "https://flagsapi.com/VG/flat/64.png"
+  },
+  {
+    "ITU_Codes": "379",
+    "Country": "U.S. Virgin Islands",
+    "ISO2": "VI",
+    "FlagURL": "https://flagsapi.com/VI/flat/64.png"
+  },
+  {
+    "ITU_Codes": "401",
+    "Country": "Afghanistan",
+    "ISO2": "AF",
+    "FlagURL": "https://flagsapi.com/AF/flat/64.png"
+  },
+  {
+    "ITU_Codes": "403",
+    "Country": "Saudi Arabia",
+    "ISO2": "SA",
+    "FlagURL": "https://flagsapi.com/SA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "405",
+    "Country": "Bangladesh",
+    "ISO2": "BD",
+    "FlagURL": "https://flagsapi.com/BD/flat/64.png"
+  },
+  {
+    "ITU_Codes": "408",
+    "Country": "Bahrain",
+    "ISO2": "BH",
+    "FlagURL": "https://flagsapi.com/BH/flat/64.png"
+  },
+  {
+    "ITU_Codes": "410",
+    "Country": "Bhutan",
+    "ISO2": "BT",
+    "FlagURL": "https://flagsapi.com/BT/flat/64.png"
+  },
+  {
+    "ITU_Codes": "412",
+    "Country": "China",
+    "ISO2": "CN",
+    "FlagURL": "https://flagsapi.com/CN/flat/64.png"
+  },
+  {
+    "ITU_Codes": "413",
+    "Country": "China",
+    "ISO2": "CN",
+    "FlagURL": "https://flagsapi.com/CN/flat/64.png"
+  },
+  {
+    "ITU_Codes": "414",
+    "Country": "China",
+    "ISO2": "CN",
+    "FlagURL": "https://flagsapi.com/CN/flat/64.png"
+  },
+  {
+    "ITU_Codes": "416",
+    "Country": "Taiwan",
+    "ISO2": "TW",
+    "FlagURL": "https://flagsapi.com/TW/flat/64.png"
+  },
+  {
+    "ITU_Codes": "417",
+    "Country": "Sri Lanka",
+    "ISO2": "LK",
+    "FlagURL": "https://flagsapi.com/LK/flat/64.png"
+  },
+  {
+    "ITU_Codes": "419",
+    "Country": "India",
+    "ISO2": "IN",
+    "FlagURL": "https://flagsapi.com/IN/flat/64.png"
+  },
+  {
+    "ITU_Codes": "422",
+    "Country": "Iran",
+    "ISO2": "IR",
+    "FlagURL": "https://flagsapi.com/IR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "423",
+    "Country": "Azerbaijan",
+    "ISO2": "AZ",
+    "FlagURL": "https://flagsapi.com/AZ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "425",
+    "Country": "Iraq",
+    "ISO2": "IQ",
+    "FlagURL": "https://flagsapi.com/IQ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "428",
+    "Country": "Israel",
+    "ISO2": "IL",
+    "FlagURL": "https://flagsapi.com/IL/flat/64.png"
+  },
+  {
+    "ITU_Codes": "431",
+    "Country": "Japan",
+    "ISO2": "JP",
+    "FlagURL": "https://flagsapi.com/JP/flat/64.png"
+  },
+  {
+    "ITU_Codes": "432",
+    "Country": "Japan",
+    "ISO2": "JP",
+    "FlagURL": "https://flagsapi.com/JP/flat/64.png"
+  },
+  {
+    "ITU_Codes": "434",
+    "Country": "Turkmenistan",
+    "ISO2": "TM",
+    "FlagURL": "https://flagsapi.com/TM/flat/64.png"
+  },
+  {
+    "ITU_Codes": "436",
+    "Country": "Kazakhstan",
+    "ISO2": "KZ",
+    "FlagURL": "https://flagsapi.com/KZ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "437",
+    "Country": "Uzbekistan",
+    "ISO2": "UZ",
+    "FlagURL": "https://flagsapi.com/UZ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "438",
+    "Country": "Jordan",
+    "ISO2": "JO",
+    "FlagURL": "https://flagsapi.com/JO/flat/64.png"
+  },
+  {
+    "ITU_Codes": "440",
+    "Country": "South Korea",
+    "ISO2": "KR",
+    "FlagURL": "https://flagsapi.com/KR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "441",
+    "Country": "South Korea",
+    "ISO2": "KR",
+    "FlagURL": "https://flagsapi.com/KR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "443",
+    "Country": "Palestine",
+    "ISO2": "PS",
+    "FlagURL": "https://flagsapi.com/PS/flat/64.png"
+  },
+  {
+    "ITU_Codes": "445",
+    "Country": "North Korea",
+    "ISO2": "KP",
+    "FlagURL": "https://flagsapi.com/KP/flat/64.png"
+  },
+  {
+    "ITU_Codes": "447",
+    "Country": "Kuwait",
+    "ISO2": "KW",
+    "FlagURL": "https://flagsapi.com/KW/flat/64.png"
+  },
+  {
+    "ITU_Codes": "450",
+    "Country": "Lebanon",
+    "ISO2": "LB",
+    "FlagURL": "https://flagsapi.com/LB/flat/64.png"
+  },
+  {
+    "ITU_Codes": "451",
+    "Country": "Kyrgyzstan",
+    "ISO2": "KG",
+    "FlagURL": "https://flagsapi.com/KG/flat/64.png"
+  },
+  {
+    "ITU_Codes": "453",
+    "Country": "Macau",
+    "ISO2": "MO",
+    "FlagURL": "https://flagsapi.com/MO/flat/64.png"
+  },
+  {
+    "ITU_Codes": "455",
+    "Country": "Maldives",
+    "ISO2": "MV",
+    "FlagURL": "https://flagsapi.com/MV/flat/64.png"
+  },
+  {
+    "ITU_Codes": "457",
+    "Country": "Mongolia",
+    "ISO2": "MN",
+    "FlagURL": "https://flagsapi.com/MN/flat/64.png"
+  },
+  {
+    "ITU_Codes": "459",
+    "Country": "Nepal",
+    "ISO2": "NP",
+    "FlagURL": "https://flagsapi.com/NP/flat/64.png"
+  },
+  {
+    "ITU_Codes": "461",
+    "Country": "Oman",
+    "ISO2": "OM",
+    "FlagURL": "https://flagsapi.com/OM/flat/64.png"
+  },
+  {
+    "ITU_Codes": "463",
+    "Country": "Pakistan",
+    "ISO2": "PK",
+    "FlagURL": "https://flagsapi.com/PK/flat/64.png"
+  },
+  {
+    "ITU_Codes": "466",
+    "Country": "Qatar",
+    "ISO2": "QA",
+    "FlagURL": "https://flagsapi.com/QA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "468",
+    "Country": "Syria",
+    "ISO2": "SY",
+    "FlagURL": "https://flagsapi.com/SY/flat/64.png"
+  },
+  {
+    "ITU_Codes": "470",
+    "Country": "UAE",
+    "ISO2": "AE",
+    "FlagURL": "https://flagsapi.com/AE/flat/64.png"
+  },
+  {
+    "ITU_Codes": "473",
+    "Country": "Yemen",
+    "ISO2": "YE",
+    "FlagURL": "https://flagsapi.com/YE/flat/64.png"
+  },
+  {
+    "ITU_Codes": "474",
+    "Country": "Yemen",
+    "ISO2": "YE",
+    "FlagURL": "https://flagsapi.com/YE/flat/64.png"
+  },
+  {
+    "ITU_Codes": "475",
+    "Country": "Yemen",
+    "ISO2": "YE",
+    "FlagURL": "https://flagsapi.com/YE/flat/64.png"
+  },
+  {
+    "ITU_Codes": "477",
+    "Country": "Hong Kong",
+    "ISO2": "HK",
+    "FlagURL": "https://flagsapi.com/HK/flat/64.png"
+  },
+  {
+    "ITU_Codes": "478",
+    "Country": "Bosnia and Herzegovina",
+    "ISO2": "BA",
+    "FlagURL": "https://flagsapi.com/BA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "501",
+    "Country": "Adelie Land (France)",
+    "ISO2": "FR",
+    "FlagURL": "https://flagsapi.com/FR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "503",
+    "Country": "Australia",
+    "ISO2": "AU",
+    "FlagURL": "https://flagsapi.com/AU/flat/64.png"
+  },
+  {
+    "ITU_Codes": "506",
+    "Country": "Myanmar",
+    "ISO2": "MM",
+    "FlagURL": "https://flagsapi.com/MM/flat/64.png"
+  },
+  {
+    "ITU_Codes": "508",
+    "Country": "Brunei",
+    "ISO2": "BN",
+    "FlagURL": "https://flagsapi.com/BN/flat/64.png"
+  },
+  {
+    "ITU_Codes": "510",
+    "Country": "Micronesia",
+    "ISO2": "FM",
+    "FlagURL": "https://flagsapi.com/FM/flat/64.png"
+  },
+  {
+    "ITU_Codes": "511",
+    "Country": "Palau",
+    "ISO2": "PW",
+    "FlagURL": "https://flagsapi.com/PW/flat/64.png"
+  },
+  {
+    "ITU_Codes": "512",
+    "Country": "New Zealand",
+    "ISO2": "NZ",
+    "FlagURL": "https://flagsapi.com/NZ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "514",
+    "Country": "Cambodia",
+    "ISO2": "KH",
+    "FlagURL": "https://flagsapi.com/KH/flat/64.png"
+  },
+  {
+    "ITU_Codes": "515",
+    "Country": "Cambodia",
+    "ISO2": "KH",
+    "FlagURL": "https://flagsapi.com/KH/flat/64.png"
+  },
+  {
+    "ITU_Codes": "516",
+    "Country": "Christmas Island",
+    "ISO2": "CX",
+    "FlagURL": "https://flagsapi.com/CX/flat/64.png"
+  },
+  {
+    "ITU_Codes": "518",
+    "Country": "Cook Islands",
+    "ISO2": "CK",
+    "FlagURL": "https://flagsapi.com/CK/flat/64.png"
+  },
+  {
+    "ITU_Codes": "520",
+    "Country": "Fiji",
+    "ISO2": "FJ",
+    "FlagURL": "https://flagsapi.com/FJ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "523",
+    "Country": "Cocos Islands",
+    "ISO2": "CC",
+    "FlagURL": "https://flagsapi.com/CC/flat/64.png"
+  },
+  {
+    "ITU_Codes": "525",
+    "Country": "Indonesia",
+    "ISO2": "ID",
+    "FlagURL": "https://flagsapi.com/ID/flat/64.png"
+  },
+  {
+    "ITU_Codes": "529",
+    "Country": "Kiribati",
+    "ISO2": "KI",
+    "FlagURL": "https://flagsapi.com/KI/flat/64.png"
+  },
+  {
+    "ITU_Codes": "531",
+    "Country": "Laos",
+    "ISO2": "LA",
+    "FlagURL": "https://flagsapi.com/LA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "533",
+    "Country": "Malaysia",
+    "ISO2": "MY",
+    "FlagURL": "https://flagsapi.com/MY/flat/64.png"
+  },
+  {
+    "ITU_Codes": "536",
+    "Country": "Northern Mariana Islands",
+    "ISO2": "MP",
+    "FlagURL": "https://flagsapi.com/MP/flat/64.png"
+  },
+  {
+    "ITU_Codes": "538",
+    "Country": "Marshall Islands",
+    "ISO2": "MH",
+    "FlagURL": "https://flagsapi.com/MH/flat/64.png"
+  },
+  {
+    "ITU_Codes": "540",
+    "Country": "New Caledonia",
+    "ISO2": "NC",
+    "FlagURL": "https://flagsapi.com/NC/flat/64.png"
+  },
+  {
+    "ITU_Codes": "542",
+    "Country": "Niue",
+    "ISO2": "NU",
+    "FlagURL": "https://flagsapi.com/NU/flat/64.png"
+  },
+  {
+    "ITU_Codes": "544",
+    "Country": "Nauru",
+    "ISO2": "NR",
+    "FlagURL": "https://flagsapi.com/NR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "546",
+    "Country": "French Polynesia",
+    "ISO2": "PF",
+    "FlagURL": "https://flagsapi.com/PF/flat/64.png"
+  },
+  {
+    "ITU_Codes": "548",
+    "Country": "Philippines",
+    "ISO2": "PH",
+    "FlagURL": "https://flagsapi.com/PH/flat/64.png"
+  },
+  {
+    "ITU_Codes": "553",
+    "Country": "Papua New Guinea",
+    "ISO2": "PG",
+    "FlagURL": "https://flagsapi.com/PG/flat/64.png"
+  },
+  {
+    "ITU_Codes": "555",
+    "Country": "Pitcairn Island",
+    "ISO2": "PN",
+    "FlagURL": "https://flagsapi.com/PN/flat/64.png"
+  },
+  {
+    "ITU_Codes": "557",
+    "Country": "Solomon Islands",
+    "ISO2": "SB",
+    "FlagURL": "https://flagsapi.com/SB/flat/64.png"
+  },
+  {
+    "ITU_Codes": "559",
+    "Country": "American Samoa",
+    "ISO2": "AS",
+    "FlagURL": "https://flagsapi.com/AS/flat/64.png"
+  },
+  {
+    "ITU_Codes": "561",
+    "Country": "Samoa",
+    "ISO2": "WS",
+    "FlagURL": "https://flagsapi.com/WS/flat/64.png"
+  },
+  {
+    "ITU_Codes": "563",
+    "Country": "Singapore",
+    "ISO2": "SG",
+    "FlagURL": "https://flagsapi.com/SG/flat/64.png"
+  },
+  {
+    "ITU_Codes": "564",
+    "Country": "Singapore",
+    "ISO2": "SG",
+    "FlagURL": "https://flagsapi.com/SG/flat/64.png"
+  },
+  {
+    "ITU_Codes": "565",
+    "Country": "Singapore",
+    "ISO2": "SG",
+    "FlagURL": "https://flagsapi.com/SG/flat/64.png"
+  },
+  {
+    "ITU_Codes": "567",
+    "Country": "Thailand",
+    "ISO2": "TH",
+    "FlagURL": "https://flagsapi.com/TH/flat/64.png"
+  },
+  {
+    "ITU_Codes": "570",
+    "Country": "Tonga",
+    "ISO2": "TO",
+    "FlagURL": "https://flagsapi.com/TO/flat/64.png"
+  },
+  {
+    "ITU_Codes": "572",
+    "Country": "Tuvalu",
+    "ISO2": "TV",
+    "FlagURL": "https://flagsapi.com/TV/flat/64.png"
+  },
+  {
+    "ITU_Codes": "574",
+    "Country": "Vietnam",
+    "ISO2": "VN",
+    "FlagURL": "https://flagsapi.com/VN/flat/64.png"
+  },
+  {
+    "ITU_Codes": "576",
+    "Country": "Vanuatu",
+    "ISO2": "VU",
+    "FlagURL": "https://flagsapi.com/VU/flat/64.png"
+  },
+  {
+    "ITU_Codes": "578",
+    "Country": "Wallis and Futuna",
+    "ISO2": "WF",
+    "FlagURL": "https://flagsapi.com/WF/flat/64.png"
+  },
+  {
+    "ITU_Codes": "601",
+    "Country": "South Africa",
+    "ISO2": "ZA",
+    "FlagURL": "https://flagsapi.com/ZA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "603",
+    "Country": "Angola",
+    "ISO2": "AO",
+    "FlagURL": "https://flagsapi.com/AO/flat/64.png"
+  },
+  {
+    "ITU_Codes": "605",
+    "Country": "Algeria",
+    "ISO2": "DZ",
+    "FlagURL": "https://flagsapi.com/DZ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "607",
+    "Country": "St Paul & Amsterdam Islands (FR)",
+    "ISO2": "FR",
+    "FlagURL": "https://flagsapi.com/FR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "608",
+    "Country": "Ascension Island",
+    "ISO2": "AC",
+    "FlagURL": "https://flagsapi.com/AC/flat/64.png"
+  },
+  {
+    "ITU_Codes": "609",
+    "Country": "Burundi",
+    "ISO2": "BI",
+    "FlagURL": "https://flagsapi.com/BI/flat/64.png"
+  },
+  {
+    "ITU_Codes": "610",
+    "Country": "Benin",
+    "ISO2": "BJ",
+    "FlagURL": "https://flagsapi.com/BJ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "611",
+    "Country": "Botswana",
+    "ISO2": "BW",
+    "FlagURL": "https://flagsapi.com/BW/flat/64.png"
+  },
+  {
+    "ITU_Codes": "612",
+    "Country": "Central African Republic",
+    "ISO2": "CF",
+    "FlagURL": "https://flagsapi.com/CF/flat/64.png"
+  },
+  {
+    "ITU_Codes": "613",
+    "Country": "Cameroon",
+    "ISO2": "CM",
+    "FlagURL": "https://flagsapi.com/CM/flat/64.png"
+  },
+  {
+    "ITU_Codes": "615",
+    "Country": "Congo",
+    "ISO2": "CG",
+    "FlagURL": "https://flagsapi.com/CG/flat/64.png"
+  },
+  {
+    "ITU_Codes": "616",
+    "Country": "Comoros",
+    "ISO2": "KM",
+    "FlagURL": "https://flagsapi.com/KM/flat/64.png"
+  },
+  {
+    "ITU_Codes": "617",
+    "Country": "Cape Verde",
+    "ISO2": "CV",
+    "FlagURL": "https://flagsapi.com/CV/flat/64.png"
+  },
+  {
+    "ITU_Codes": "618",
+    "Country": "Crozet Islands (FR)",
+    "ISO2": "FR",
+    "FlagURL": "https://flagsapi.com/FR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "619",
+    "Country": "Côte d'Ivoire",
+    "ISO2": "CI",
+    "FlagURL": "https://flagsapi.com/CI/flat/64.png"
+  },
+  {
+    "ITU_Codes": "621",
+    "Country": "Djibouti",
+    "ISO2": "DJ",
+    "FlagURL": "https://flagsapi.com/DJ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "622",
+    "Country": "Egypt",
+    "ISO2": "EG",
+    "FlagURL": "https://flagsapi.com/EG/flat/64.png"
+  },
+  {
+    "ITU_Codes": "624",
+    "Country": "Ethiopia",
+    "ISO2": "ET",
+    "FlagURL": "https://flagsapi.com/ET/flat/64.png"
+  },
+  {
+    "ITU_Codes": "625",
+    "Country": "Eritrea",
+    "ISO2": "ER",
+    "FlagURL": "https://flagsapi.com/ER/flat/64.png"
+  },
+  {
+    "ITU_Codes": "626",
+    "Country": "Gabon",
+    "ISO2": "GA",
+    "FlagURL": "https://flagsapi.com/GA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "627",
+    "Country": "Ghana",
+    "ISO2": "GH",
+    "FlagURL": "https://flagsapi.com/GH/flat/64.png"
+  },
+  {
+    "ITU_Codes": "629",
+    "Country": "Gambia",
+    "ISO2": "GM",
+    "FlagURL": "https://flagsapi.com/GM/flat/64.png"
+  },
+  {
+    "ITU_Codes": "630",
+    "Country": "Guinea-Bissau",
+    "ISO2": "GW",
+    "FlagURL": "https://flagsapi.com/GW/flat/64.png"
+  },
+  {
+    "ITU_Codes": "631",
+    "Country": "Equatorial Guinea",
+    "ISO2": "GQ",
+    "FlagURL": "https://flagsapi.com/GQ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "632",
+    "Country": "Guinea",
+    "ISO2": "GN",
+    "FlagURL": "https://flagsapi.com/GN/flat/64.png"
+  },
+  {
+    "ITU_Codes": "633",
+    "Country": "Burkina Faso",
+    "ISO2": "BF",
+    "FlagURL": "https://flagsapi.com/BF/flat/64.png"
+  },
+  {
+    "ITU_Codes": "634",
+    "Country": "Kenya",
+    "ISO2": "KE",
+    "FlagURL": "https://flagsapi.com/KE/flat/64.png"
+  },
+  {
+    "ITU_Codes": "635",
+    "Country": "Kerguelen Islands (FR)",
+    "ISO2": "FR",
+    "FlagURL": "https://flagsapi.com/FR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "636",
+    "Country": "Liberia",
+    "ISO2": "LR",
+    "FlagURL": "https://flagsapi.com/LR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "637",
+    "Country": "Liberia",
+    "ISO2": "LR",
+    "FlagURL": "https://flagsapi.com/LR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "642",
+    "Country": "Libya",
+    "ISO2": "LY",
+    "FlagURL": "https://flagsapi.com/LY/flat/64.png"
+  },
+  {
+    "ITU_Codes": "644",
+    "Country": "Lesotho",
+    "ISO2": "LS",
+    "FlagURL": "https://flagsapi.com/LS/flat/64.png"
+  },
+  {
+    "ITU_Codes": "645",
+    "Country": "Mauritius",
+    "ISO2": "MU",
+    "FlagURL": "https://flagsapi.com/MU/flat/64.png"
+  },
+  {
+    "ITU_Codes": "647",
+    "Country": "Madagascar",
+    "ISO2": "MG",
+    "FlagURL": "https://flagsapi.com/MG/flat/64.png"
+  },
+  {
+    "ITU_Codes": "649",
+    "Country": "Mali",
+    "ISO2": "ML",
+    "FlagURL": "https://flagsapi.com/ML/flat/64.png"
+  },
+  {
+    "ITU_Codes": "650",
+    "Country": "Mozambique",
+    "ISO2": "MZ",
+    "FlagURL": "https://flagsapi.com/MZ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "654",
+    "Country": "Mauritania",
+    "ISO2": "MR",
+    "FlagURL": "https://flagsapi.com/MR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "655",
+    "Country": "Malawi",
+    "ISO2": "MW",
+    "FlagURL": "https://flagsapi.com/MW/flat/64.png"
+  },
+  {
+    "ITU_Codes": "656",
+    "Country": "Niger",
+    "ISO2": "NE",
+    "FlagURL": "https://flagsapi.com/NE/flat/64.png"
+  },
+  {
+    "ITU_Codes": "657",
+    "Country": "Nigeria",
+    "ISO2": "NG",
+    "FlagURL": "https://flagsapi.com/NG/flat/64.png"
+  },
+  {
+    "ITU_Codes": "659",
+    "Country": "Namibia",
+    "ISO2": "NA",
+    "FlagURL": "https://flagsapi.com/NA/flat/64.png"
+  },
+  {
+    "ITU_Codes": "660",
+    "Country": "Reunion",
+    "ISO2": "RE",
+    "FlagURL": "https://flagsapi.com/RE/flat/64.png"
+  },
+  {
+    "ITU_Codes": "661",
+    "Country": "Rwanda",
+    "ISO2": "RW",
+    "FlagURL": "https://flagsapi.com/RW/flat/64.png"
+  },
+  {
+    "ITU_Codes": "662",
+    "Country": "Sudan",
+    "ISO2": "SD",
+    "FlagURL": "https://flagsapi.com/SD/flat/64.png"
+  },
+  {
+    "ITU_Codes": "663",
+    "Country": "Senegal",
+    "ISO2": "SN",
+    "FlagURL": "https://flagsapi.com/SN/flat/64.png"
+  },
+  {
+    "ITU_Codes": "664",
+    "Country": "Seychelles",
+    "ISO2": "SC",
+    "FlagURL": "https://flagsapi.com/SC/flat/64.png"
+  },
+  {
+    "ITU_Codes": "665",
+    "Country": "Saint Helena",
+    "ISO2": "SH",
+    "FlagURL": "https://flagsapi.com/SH/flat/64.png"
+  },
+  {
+    "ITU_Codes": "666",
+    "Country": "Somalia",
+    "ISO2": "SO",
+    "FlagURL": "https://flagsapi.com/SO/flat/64.png"
+  },
+  {
+    "ITU_Codes": "667",
+    "Country": "Sierra Leone",
+    "ISO2": "SL",
+    "FlagURL": "https://flagsapi.com/SL/flat/64.png"
+  },
+  {
+    "ITU_Codes": "668",
+    "Country": "São Tomé and Príncipe",
+    "ISO2": "ST",
+    "FlagURL": "https://flagsapi.com/ST/flat/64.png"
+  },
+  {
+    "ITU_Codes": "669",
+    "Country": "Eswatini",
+    "ISO2": "SZ",
+    "FlagURL": "https://flagsapi.com/SZ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "670",
+    "Country": "Chad",
+    "ISO2": "TD",
+    "FlagURL": "https://flagsapi.com/TD/flat/64.png"
+  },
+  {
+    "ITU_Codes": "671",
+    "Country": "Togo",
+    "ISO2": "TG",
+    "FlagURL": "https://flagsapi.com/TG/flat/64.png"
+  },
+  {
+    "ITU_Codes": "672",
+    "Country": "Tunisia",
+    "ISO2": "TN",
+    "FlagURL": "https://flagsapi.com/TN/flat/64.png"
+  },
+  {
+    "ITU_Codes": "674",
+    "Country": "Tanzania",
+    "ISO2": "TZ",
+    "FlagURL": "https://flagsapi.com/TZ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "675",
+    "Country": "Uganda",
+    "ISO2": "UG",
+    "FlagURL": "https://flagsapi.com/UG/flat/64.png"
+  },
+  {
+    "ITU_Codes": "676",
+    "Country": "DR Congo",
+    "ISO2": "CD",
+    "FlagURL": "https://flagsapi.com/CD/flat/64.png"
+  },
+  {
+    "ITU_Codes": "677",
+    "Country": "Tanzania",
+    "ISO2": "TZ",
+    "FlagURL": "https://flagsapi.com/TZ/flat/64.png"
+  },
+  {
+    "ITU_Codes": "678",
+    "Country": "Zambia",
+    "ISO2": "ZM",
+    "FlagURL": "https://flagsapi.com/ZM/flat/64.png"
+  },
+  {
+    "ITU_Codes": "679",
+    "Country": "Zimbabwe",
+    "ISO2": "ZW",
+    "FlagURL": "https://flagsapi.com/ZW/flat/64.png"
+  },
+  {
+    "ITU_Codes": "701",
+    "Country": "Argentina",
+    "ISO2": "AR",
+    "FlagURL": "https://flagsapi.com/AR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "710",
+    "Country": "Brazil",
+    "ISO2": "BR",
+    "FlagURL": "https://flagsapi.com/BR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "720",
+    "Country": "Bolivia",
+    "ISO2": "BO",
+    "FlagURL": "https://flagsapi.com/BO/flat/64.png"
+  },
+  {
+    "ITU_Codes": "725",
+    "Country": "Chile",
+    "ISO2": "CL",
+    "FlagURL": "https://flagsapi.com/CL/flat/64.png"
+  },
+  {
+    "ITU_Codes": "730",
+    "Country": "Colombia",
+    "ISO2": "CO",
+    "FlagURL": "https://flagsapi.com/CO/flat/64.png"
+  },
+  {
+    "ITU_Codes": "735",
+    "Country": "Ecuador",
+    "ISO2": "EC",
+    "FlagURL": "https://flagsapi.com/EC/flat/64.png"
+  },
+  {
+    "ITU_Codes": "740",
+    "Country": "Falkland Islands",
+    "ISO2": "FK",
+    "FlagURL": "https://flagsapi.com/FK/flat/64.png"
+  },
+  {
+    "ITU_Codes": "745",
+    "Country": "French Guiana",
+    "ISO2": "GF",
+    "FlagURL": "https://flagsapi.com/GF/flat/64.png"
+  },
+  {
+    "ITU_Codes": "750",
+    "Country": "Guyana",
+    "ISO2": "GY",
+    "FlagURL": "https://flagsapi.com/GY/flat/64.png"
+  },
+  {
+    "ITU_Codes": "755",
+    "Country": "Paraguay",
+    "ISO2": "PY",
+    "FlagURL": "https://flagsapi.com/PY/flat/64.png"
+  },
+  {
+    "ITU_Codes": "760",
+    "Country": "Peru",
+    "ISO2": "PE",
+    "FlagURL": "https://flagsapi.com/PE/flat/64.png"
+  },
+  {
+    "ITU_Codes": "765",
+    "Country": "Suriname",
+    "ISO2": "SR",
+    "FlagURL": "https://flagsapi.com/SR/flat/64.png"
+  },
+  {
+    "ITU_Codes": "770",
+    "Country": "Uruguay",
+    "ISO2": "UY",
+    "FlagURL": "https://flagsapi.com/UY/flat/64.png"
+  },
+  {
+    "ITU_Codes": "775",
+    "Country": "Venezuela",
+    "ISO2": "VE",
+    "FlagURL": "https://flagsapi.com/VE/flat/64.png"
+  }
+]
